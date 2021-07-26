@@ -4,7 +4,7 @@ From the [reference implementation](https://github.com/cblgh/appleseed-metric):
 
 > Appleseed is a trust propagation algorithm and trust metric for local group trust computation. It was first described by Cai-Nicolas Ziegler and Georg Lausen in [Propagation Models for Trust and Distrust in Social Networks](https://link.springer.com/article/10.1007/s10796-005-4807-3).
 >
-> Basically, Appleseed makes it possible to take a group of nodeswhich have various trust relations to each otherlook at the group from the perspective of a single node, and rank each of the other nodes according to how trusted they are from the perspective of the single node. 
+> Basically, Appleseed makes it possible to take a group of nodes which have various trust relations to each other, look at the group from the perspective of a single node, and rank each of the other nodes according to how trusted they are from the perspective of the single node. 
 > 
 > Appleseed is used by [TrustNet](https://github.com/cblgh/trustnet), a system for interacting with and managing computational trust.
 > 
